@@ -1,5 +1,5 @@
 // ⚠️ GIỮ NGUYÊN LINK GAS CŨ CỦA BẠN
-const GAS_URL = "https://script.google.com/macros/s/AKfycbxUv4H5_-0zpT1BS4JVZNfDdpxp-xKkZoLlGwKeZWJ-V6tyFogkfOxjpa_a7MpGhnDe/exec";
+const GAS_URL = "https://script.google.com/macros/s/AKfycbzMjbU7OJ7cnv2JshKIP4s9UkTymifD5ziPjijAyq-HHx-onPVE7TxX7getcKpHgMvr/exec";
 
 const welcomeContainer = document.getElementById('welcome-container');
 const welcomeMessage = document.getElementById('welcome-message');
